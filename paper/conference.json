@@ -2,14 +2,14 @@
     {
         "authors": "Xiuquan Du*, Xuebin Xu, Kunpeng Ma",
         "title": "ICGNet: Integration Context-based Reverse-Contour Guidance Network for Polyp Segmentation",
-        "publication": "THE 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)",
+        "publication": "The 31st International joint conference on artificial intelligence (IJCAI)",
         "ext-info": "2022",
         "link": "pdf/2022 DR.VIC.pdf"
     },
     {
         "authors": "Xiuquan Du*, Yanyu Diao, Yu Yao, Huaixu Zhu, Yanping Zhang",
         "title": "DeepMVF-RBP: Deep multi-view fusion representation learning for RNA Binding protein prediction",
-        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (BIBM)",
+        "publication": "International Conference on Acoustic, Speech, and Signal Processing (BIBM)",
         "ext-info": "2018",
         "link": "pdf/2022 S2BDet.pdf"
     },
