@@ -1,8 +1,8 @@
 [
     {
-        "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan, and X. Li",
-        "title": "LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition",
-        "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
+        "authors": "Yuhui Song, Xiuquan Du*, Yanping Zhang, Shuo Li.",
+        "title": "Two-Stage Segmentation Network with Multi-Level Classification Attention Mechanism for Whole-Heart CT Images",
+        "publication": "Computerized Medical Imaging and Graphics",
         "ext-info": "DOI: 10.1109/TPAMI.2022.3153691",
         "link": "pdf/2022 LSV-LP_final.pdf",
         "Dataset": [
@@ -10,23 +10,23 @@
         ]
     },
     {
-        "authors": "C. Yang, M. Chen, Z. Xiong, Y. Yuan, and Q. Wang*",
-        "title": "CM-Net: Concentric Mask Based Arbitrary-Shaped Text Detection",
-        "publication": "IEEE Transactions on Image Processing (T-IP)",
+        "authors": "Xiujuan Zhao, Yanping Zhang, Xiuquan Du*.",
+        "title": "DFpin: deep learning-based protein binding sites prediction with feature-based non-redundancy from RNA level",
+        "publication": "Computers in Biology and Medicine",
         "ext-info": "vol. 31, pp. 2864-2877, 2022",
         "link": "pdf/2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
     },
     {
-        "authors": "Y. Liu, Q. Li, Y. Yuan, Q. Du, and Q. Wang*",
-        "title": "ABNet: Adaptive Balanced Network for Multi-scale Object Detection in Remote Sensing Imagery",
-        "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
+        "authors": "Xiuquan Du*, Jiajia Hu.",
+        "title": "Deep multi-label joint learning for RNA and DNA-binding proteins prediction",
+        "publication": " IEEE/ACM Transactions on Computational Biology and Bioinformatics",
         "ext-info": "vol. 60, pp. 1-14, 2022",
         "link": "pdf/2021 bare_jrnl.pdf"
     },
     {
-        "authors": "Y. Miao, M. Chen, Y. Yuan, J. Chanussot, and Q. Wang*",
-        "title": "Hyperspectral Imagery Classification via Random Multi-Graphs Ensemble Learning",
-        "publication": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)",
+        "authors": "Xiuquan Du*, Xiujuan Zhao, Yanping Zhang.",
+        "title": "DeepBtoD: improved RNA binding protein prediction via integrated deep learning",
+        "publication": "Journal of Bioinformatics and Computational Biology",
         "ext-info": "vol. 15, pp. 641-653, 2022",
         "link": "pdf/2021 JSTARS-final.pdf",
         "Code": [
@@ -35,9 +35,9 @@
         "hide": false
     },
     {
-        "authors": "J. Gao, T. Han, Y. Yuan, and Q. Wang*",
-        "title": "Domain-adaptive Crowd Counting via High-quality Image Translation and Density Reconstruction",
-        "publication": "IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)",
+        "authors": "Xiuquan Du*, Yueguo Liu.",
+        "title": "Constraint-based Unsupervised Domain Adaptation network for Multi-Modality Cardiac Image Segmentation",
+        "publication": "IEEE Journal of Biomedical and Health Informatics",
         "ext-info": "DOI: 10.1109/TNNLS.2021.3124272",
         "link": "pdf/2021 Domain-adaptive Crowd Counting via High-quality.pdf"
     },
