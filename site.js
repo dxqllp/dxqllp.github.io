@@ -5,8 +5,8 @@ function insert_paper(paper, selector) {
     let authors = document.createElement('span');
     authors.className = "author-list";
     authors.innerHTML = paper['authors'].includes('*')
-        ? paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
-        : paper['authors'].replace('Q. Wang', '<b>Q. Wang</b>');
+        ? paper['authors'].replace('Xiuquan Du*', '<b class="star">Xiuquan Du</b>')
+        : paper['authors'].replace('Xiuquan Du', '<b>Xiuquan Du</b>');
     newLi.appendChild(authors);
 
     let title = document.createElement('span');
