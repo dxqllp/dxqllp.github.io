@@ -21,8 +21,8 @@ function insert_paper(paper, selector) {
         publication.className = 'paper-pub';
     }
     publication.innerText = paper['publication'];
-    // highlight T-PAMI and IJCV
-    if (publication.innerText.includes('T-PAMI') || publication.innerText.includes('IJCV')) {
+    // highlight T-PAMI and IJCV, Media
+    if (publication.innerText.includes('T-PAMI') || publication.innerText.includes('IJCV')|| publication.innerText.includes('media')) {
         publication.classList.add('color-red');
     }
     newLi.appendChild(publication);
@@ -93,7 +93,7 @@ let journalFilter = function (data) {
     if (data['hide'] === false) return true;
 
     // INCLUDE: first author
-    if (data['authors'].startsWith('Q. Wang')) return true;
+    if (data['authors'].startsWith('Xiuquan Du')) return true;
     if (data['authors'].startsWith('<b')) return true;
     // INCLUDE: IEEE Transaction
     if (data['publication'].includes('IEEE Trans')) return true;
